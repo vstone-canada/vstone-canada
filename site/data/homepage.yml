@@ -1,10 +1,10 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
+  title : "vstone | your trusted local quartz marble store"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed dia"
-  image : "images/banner.png"
+  image : "images/banner.jpg"
   # button
   button:
     enable : true
@@ -12,7 +12,7 @@ banner:
     link : "products"
   # demo video
   video:
-    enable : true
+    enable : false
     videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
 ########################## About ##############################
@@ -22,12 +22,12 @@ about:
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
           clita kasd gubergren,"
-  image : "images/about.png"
+  image : "images/about.jpg"
 
 
 ###################### Call to action ########################
 cta:
-  enable : true
+  enable : false
   title : "Buy one Get One Free Taba Cream"
   content : "Available for limited time only. Grab one while you still can!"
   image : "images/cta.png"
@@ -38,7 +38,7 @@ cta:
 
 ######################## raw material #######################
 material:
-  enable : true
+  enable : false
   title : "Ingredients Of Our Products"
   subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dol."
@@ -68,7 +68,7 @@ advantage:
   enable : true
   title : "Advantages Of Using <br> Our Product"
   subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
-  image : "images/advantage.png"
+  image : "images/advantage.jpg"
   advantageList:
     # advantage list loop
     - listItem : "Extremely lightweight"
@@ -81,7 +81,7 @@ advantage:
 
 ######################## Promo Video ##########################
 video:
-  enable : true
+  enable : false
   title : "How To Use This Product?"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
@@ -91,7 +91,7 @@ video:
 
 ######################## Products #############################
 products:
-  enable : true
+  enable : false
   title : "Products List"
   # product item comes from "content/products"
 
