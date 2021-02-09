@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 baseURL = "/"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
-theme = "hargo"
+title = "vstone | your trusted local stone"
+theme = "vstone"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
@@ -84,8 +84,8 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Home of trusted local stone store"
+author = "vstone canada"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -94,13 +94,13 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "250-555-5555"
+email = "vstone.canada@gmail.com"
+location = "Victoria, BC"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 [vstone canada](https://github.com/vstone-canada) All Rights Reserved |"
 # Snipcart Credentials
-snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
+snipcartApiKey = ""
 currencySymbol = "$"
 
   # Preloader
